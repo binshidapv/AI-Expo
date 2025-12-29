@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <!-- Homepage - English -->
+    <url>
+        <loc>https://aieni2026.ae/index.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://aieni2026.ae/index.html"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://aieni2026.ae/index-ar.html"/>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Homepage - Arabic -->
+    <url>
+        <loc>https://aieni2026.ae/index-ar.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://aieni2026.ae/index.html"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://aieni2026.ae/index-ar.html"/>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- About - English -->
+    <url>
+        <loc>https://aieni2026.ae/about.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://aieni2026.ae/about.html"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://aieni2026.ae/about-ar.html"/>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- About - Arabic -->
+    <url>
+        <loc>https://aieni2026.ae/about-ar.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://aieni2026.ae/about.html"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://aieni2026.ae/about-ar.html"/>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Call for Abstracts - English -->
+    <url>
+        <loc>https://aieni2026.ae/call.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://aieni2026.ae/call.html"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://aieni2026.ae/call-ar.html"/>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Call for Abstracts - Arabic -->
+    <url>
+        <loc>https://aieni2026.ae/call-ar.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://aieni2026.ae/call.html"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://aieni2026.ae/call-ar.html"/>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Registration - English -->
+    <url>
+        <loc>https://aieni2026.ae/register.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://aieni2026.ae/register.html"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://aieni2026.ae/register-ar.html"/>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Registration - Arabic -->
+    <url>
+        <loc>https://aieni2026.ae/register-ar.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://aieni2026.ae/register.html"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://aieni2026.ae/register-ar.html"/>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Committees - English -->
+    <url>
+        <loc>https://aieni2026.ae/commi.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://aieni2026.ae/commi.html"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://aieni2026.ae/commi-ar.html"/>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Committees - Arabic -->
+    <url>
+        <loc>https://aieni2026.ae/commi-ar.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://aieni2026.ae/commi.html"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://aieni2026.ae/commi-ar.html"/>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+</urlset>
+
